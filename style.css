@@ -4,12 +4,17 @@
     box-sizing: border-box;
     text-align: center;
     font-family: 'Outfit', sans-serif;
+    border: 1px solid red;
 }
 
 
 body {
     background: hsl(212, 45%, 89%);
     padding: 4rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
 }
 
 
