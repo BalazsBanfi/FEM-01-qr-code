@@ -4,7 +4,6 @@
     box-sizing: border-box;
     text-align: center;
     font-family: 'Outfit', sans-serif;
-    border: 1px solid green;
 }
 
 
@@ -22,7 +21,7 @@ body {
     border-radius: 25px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 25px;
 }
 
 #qr {
@@ -33,7 +32,7 @@ body {
 
 .container p {
     color: hsl(220, 15%, 55%);
-    padding: 0.75rem;
+    padding: 0 0.75rem 1.25rem 0.75rem;
     
 }
 
