@@ -1,37 +1,35 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    text-align: center;
-    font-family: 'Outfit', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
 }
-
 
 body {
-    background: hsl(212, 45%, 89%);
-    min-height: 100vh;
-    display: grid;
-    place-items: center;
+  background: hsl(212, 45%, 89%);
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
 }
 
-
 .container {
-    max-width: 330px;
-    padding: 1rem;
-    background: #fff;
-    border-radius: 25px;
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
+  max-width: 330px;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
 }
 
 #qr {
-    margin: 0px;
-    padding: 0px;
-    border-radius: 15px;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 15px;
 }
 
 .container p {
-    color: hsl(220, 15%, 55%);
-    padding: 0 0.75rem 1.25rem 0.75rem;
+  color: hsl(220, 15%, 55%);
+  padding: 0 0.75rem 1.25rem 0.75rem;
 }
